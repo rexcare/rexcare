@@ -7,7 +7,7 @@ I'm a Certified Solutions Architect for Amazon Web Services, Microsoft Azure, an
 <img src="amongus.png" height="195px" align="right">
 
 - 💻 I’m currently working as a System Administrator
-- 💡 I'm interested in Cloud Computing and System Architecture
+- 💡 I'm interested in Cloud Computing and Systems Design
 - 📝 I’m looking for help with Digital Marketing
 - 🔨 I’m currently developing a Chrome extension 
 - 📚 I’m currently preparing for the GMAT exam
