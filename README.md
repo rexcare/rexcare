@@ -8,12 +8,12 @@ I'm a Certified Solutions Architect for Amazon Web Services, Microsoft Azure, an
 
 - 💻 I’m currently working as a System Administrator
 - ☁️ I'm interested in Cloud Computing and Systems Design
-- 📝 I’m looking for help with Digital Marketing
 - 🛠️ I’m currently developing a Chrome extension 
 - 📖 I’m currently preparing for the GMAT exam
+- 📝 I’m looking for help with Digital Marketing
 - 📂 I’m looking to contribute to open source software
 - ☕ Ask me about philosophy, debate, and coffee
-- 🦋 I believe everything in the world is connected
+- 🌎 I believe everything in the world is connected
 #
 <p align="center">
    <i>"A ship is safe in harbor, but that's not what ships are for." — William Shedd
