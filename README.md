@@ -7,12 +7,12 @@ I'm a Certified Solutions Architect for Amazon Web Services, Microsoft Azure, an
 <img src="amongus.png" height="195px" align="right">
 
 - 💻 I’m currently working as a System Administrator
-- 💡 I'm interested in Cloud Computing, System Architecture, and Big Data
-- ❓ I’m looking for help with Digital Marketing
-- 🔨 I’m currently building a Chrome extension 
-- 📚 I’m currently preparing for the GMAT
-- 👯 I’m looking to contribute to open source software
-- 💬 Ask me about philosophy and debate
+- 💡 I'm interested in Cloud Computing and System Architecture
+- 📝 I’m looking for help with Digital Marketing
+- 🔨 I’m currently developing a Chrome extension 
+- 📚 I’m currently preparing for the GMAT exam
+- 📂 I’m looking to contribute to open source software
+- ☕ Ask me about philosophy, debate, and coffee
 - 🦋 I believe everything is connected
 #
 <p align="center">
