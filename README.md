@@ -4,7 +4,7 @@ I'm a Certified Solutions Architect for Amazon Web Services, Microsoft Azure, an
 
 ## 📘 About Me
 
-<img src="amongus.png" height="200" align="right">
+<img src="notsus.png" height="200" align="right">
 
 - 💻 I’m currently working as a System Administrator
 - ☁️ I'm interested in Cloud Computing and Systems Design
