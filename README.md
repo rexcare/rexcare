@@ -1,6 +1,6 @@
 ## Hello World! I'm Andrew Li 👋
 
-I'm a Certified Solutions Architect for Amazon Web Services, Microsoft Azure, and Google Cloud Platform! As a System Administrator by day and an ethical hacker by night, I enjoy building smart and efficient tools to make people's lives easier. My passion is to bridge the gap between people and technology.
+I'm a Certified Solutions Architect for Amazon Web Services, Microsoft Azure, and Google Cloud Platform! As a System Administrator by day and an ethical hacker by night, I enjoy building smart and efficient tools that make people's lives easier. My passion is to bridge the gap between people and technology.
 
 ## 📘 About Me
 
