@@ -1,12 +1,12 @@
 ## Hello World! I'm Andrew Li 👋
 
-I'm a Certified Solutions Architect for Amazon Web Services, Microsoft Azure, and Google Cloud Platform! As a System Administrator by day and an ethical hacker by night, I enjoy building smart and efficient tools that make people's lives easier. My passion is to bridge the gap between people and technology.
+I am a Software Engineer who specializes in cloud-native solutions at Microsoft. I am also a certified Solutions Architect for Amazon Web Services, Microsoft Azure, and Google Cloud Platform. My passion is to bridge the gap between people and technology.
 
 ## 📘 About Me
 
 <img src="sus.png" height="200" align="right">
 
-- 💻 I’m currently working as a System Administrator
+- 💻 I’m currently working as a Software Engineer
 - ☁️ I'm interested in Cloud Computing and Systems Design
 - 🛠️ I’m currently developing a Chrome extension 
 - 📖 I’m currently preparing to take the GMAT exam
