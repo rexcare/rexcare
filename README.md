@@ -1,6 +1,6 @@
 ## Hello World! I'm Andrew Li 👋
 
-I am a Software Engineer who specializes in cloud-native solutions at Microsoft. I am also a certified Solutions Architect for Amazon Web Services, Microsoft Azure, and Google Cloud Platform. My passion is to bridge the gap between people and technology.
+I am a Software Engineer working on complex backend messaging systems at Microsoft. I am also a certified Solutions Architect for Amazon Web Services, Microsoft Azure, and Google Cloud Platform. My passion is to bridge the gap between people and technology.
 
 ## 📘 About Me
 
