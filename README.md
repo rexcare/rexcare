@@ -6,7 +6,7 @@ I am a Site Reliability Engineer working on backend messaging services at Micros
 
 <img src="sus.png" height="200" align="right">
 
-- 💻 I’m currently working as a Software Engineer
+- 💻 I’m currently working as a Site Reliability Engineer
 - ☁️ I'm interested in Cloud Computing and Systems Design
 - 🛠️ I’m currently developing a Chrome extension 
 - 📖 I’m currently preparing to take the GMAT exam
