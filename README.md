@@ -1,6 +1,6 @@
 ## Hello World! I'm Andrew Li 👋
 
-I am a Site Reliability Engineer at Microsoft who works on backend messaging services for Microsoft Teams. I am also a certified Solutions Architect for Amazon Web Services, Microsoft Azure, and Google Cloud Platform.
+I am a Site Reliability Engineer at Microsoft who works on backend messaging services for Microsoft Teams. I am also a certified AWS Professional Solutions Architect and GCP Professional DevOps Engineer. My cloud-native toolkit includes vendor-neutral technologies such as Linux, Docker, Kubernetes, and Terraform as well. In the past, I have worked in: web development, tech support, project management, system administration, and more. Currently, the tools and technologies I use every day are Windows, Azure, Visual Studio, .NET, and PowerShell. Naturally, I wear many hats.
 
 ## 📘 About Me
 
