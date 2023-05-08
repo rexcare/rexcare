@@ -12,12 +12,10 @@ My results-oriented nature does not allow me to stop work on your project until 
 
 - 💻 I’m currently working as a Software Engineer
 - ☁️ I'm interested in Cloud Computing and Systems Design
-- 🛠️ I’m currently developing a Chrome extension 
+- 🛠️ I’m currently developing a project using GPT + LangChain + PineCone
 - 📖 I’m currently preparing to take the GMAT exam
 - 📝 I’m looking for help with Digital Marketing
 - 📂 I’m looking to contribute to open source software
-- ☕ Ask me about philosophy, debate, and coffee
-- 🌎 Everything in the world is connected in some way
 #
 <p align="center">
    <i>"A ship is safe in harbor, but that's not what ships are for." — William Shedd
