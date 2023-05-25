@@ -2,7 +2,7 @@
 
 As a senior fullstack developer with 10+ years of web development experience, I provide you high quality services.
 I have an eye for great design, extreme attention to detail, creative development, strong communication skills, and efficient workflow. 
-I have a technical background - Engineer's degree in Computer Science and strong software development experience, so I can effectively communicate with both experts and non-technical people. 
+I have a technical background - Bachelor's degree in Computer Science and strong software development experience, so I can effectively communicate with both experts and non-technical people. 
 I always strive to have all my clients satisfied with my working methodology and solutions.
 My results-oriented nature does not allow me to stop work on your project until completion.
 
@@ -12,7 +12,7 @@ My results-oriented nature does not allow me to stop work on your project until 
 
 - 💻 I’m currently working as a Software Engineer
 - ☁️ I'm interested in Cloud Computing and Systems Design
-- 🛠️ I’m currently developing a project using GPT + LangChain + PineCone
+- 🛠️ I’m currently developing a project using Next.JS + Django
 - 📖 I’m currently preparing to take the GMAT exam
 - 📝 I’m looking for help with Digital Marketing
 - 📂 I’m looking to contribute to open source software
