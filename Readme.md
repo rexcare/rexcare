@@ -11,10 +11,10 @@
 </div>
 
 ---
-- 👋 Hi, I’m SnowDev
-- 👀 I’m interested in Web Design and Developing.
+- 👋 Hi :), I'm NGUD-0II9
+- 👀 I’m have rich experience in Web3 and web application Design & Developing.
+- 🍄 I'm interested in AI/ML, GPT and OCR.
 - 🌱 I’m currently learning ML.
-
 ---
 
 ## Prefered Technicals
