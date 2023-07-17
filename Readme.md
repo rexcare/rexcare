@@ -7,11 +7,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=snow-dev-1004&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=ngud-0II9&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
-- 👋 Hi :), I'm NGUD-0II9
+- 👋 Hi :) I'm NGUD-0II9
 - 👀 I’m have rich experience in Web3 and web application Design & Developing.
 - 🍄 I'm interested in AI/ML, GPT and OCR.
 - 🌱 I’m currently learning ML.
@@ -124,7 +124,7 @@
 ---
 
 ### :fire: My Stats :
-![snow-dev-1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=snow-dev-1004&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snow-dev-1004&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  [![snow-dev-1004's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snow-dev-1004&theme=dark&background=000000)](https://git.io/streak-stats)
+![ngud-0II9's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngud-0II9&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngud-0II9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![ngud-0II9's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ngud-0II9&theme=dark&background=000000)](https://git.io/streak-stats)
   
