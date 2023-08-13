@@ -11,8 +11,8 @@
 </div>
 
 ---
-- 👋 Hi :) I'm NGUD-0II9
 - 👀 I’m have rich experience in Web3 and web application Design & Developing.
+- ✨I'm working on Web3 project now.
 - 🍄 I'm interested in AI/ML, GPT and OCR.
 - 🌱 I’m currently learning ML.
 ---
