@@ -114,12 +114,4 @@
  </tr>
 </table>
 <br><br>
-
-
----
-
-### :fire: My Stats :
-![ngud-0II9's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngud-0II9&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngud-0II9&layout=compact&theme=vision-friendly-dark)](https://github.com/ngud-0II9/github-readme-stats)
-  [![ngud-0II9's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ngud-0II9&theme=dark&background=000000)](https://git.io/streak-stats)
   
