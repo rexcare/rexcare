@@ -7,9 +7,8 @@
 
 ---
 - 👀 I’m have rich experience in Web3 and web application Design & Developing.
-- ✨I'm working on Web3 project now.
+- ✨ My recent project was Sport betting project integrating with bet365 API using Next.js + Tailwind CSS + ExpressJS + MongoDB now.
 - 🍄 I'm interested in AI/ML, GPT and OCR.
-- 🌱 I’m currently learning ML.
 ---
 
 ## Prefered Technicals
