@@ -7,13 +7,13 @@
 
 ---
 - 👀 I’m have rich experience in Web3 and web application Design & Developing.
-- ✨ My recent project was Sport betting project integrating with bet365 API using Next.js + Tailwind CSS + ExpressJS + MongoDB now.
-- 🍄 Plus AWS and GCP experience
+- ✨ My recent project was Sport betting project integrating with bet365 API plus Next.js + Tailwind CSS + ExpressJS + MongoDB now.
+- 🍄 rich experience in AWS and GCP
 ---
 
 ## Prefered Technicals
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
 </p> 
 
 ###  My Major Skill :  
